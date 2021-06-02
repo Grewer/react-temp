@@ -14,6 +14,7 @@
         "experimentalDecorators": true,
         "emitDecoratorMetadata": true,
         "skipLibCheck": true,
+        "moduleResolution": "Node",
         "resolveJsonModule": true,
         "baseUrl": ".",
         "paths": {
